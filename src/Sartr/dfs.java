@@ -19,6 +19,7 @@ public class dfs {
             }
             arr[x] = a;
         }
+        int b = 3;
         Arrays.sort(arr);
         System.err.print("######################################");
         System.out.print("\n");
